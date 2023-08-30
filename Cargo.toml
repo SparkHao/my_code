@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "group_anagrams",
+    "longest_consecutive",
+    "number_sum",
+    "move_zeroes",
+    "max_area"
+]
