@@ -5,5 +5,16 @@ members = [
     "longest_consecutive",
     "number_sum",
     "move_zeroes",
-    "max_area"
+    "max_area",
+    "three_sum",
+    "trap",
+    "length_of_longest_sub",
+    "find_anagrams",
+    "subarray_sum",
+    "max_sub_array",
+    "max_sliding_window",
+    "min_window",
+    "merge",
+    "rotate",
+    "product_except_self"
 ]

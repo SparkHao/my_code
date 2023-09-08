@@ -3,7 +3,15 @@
 version = 3
 
 [[package]]
+name = "find_anagrams"
+version = "0.1.0"
+
+[[package]]
 name = "group_anagrams"
+version = "0.1.0"
+
+[[package]]
+name = "length_of_longest_sub"
 version = "0.1.0"
 
 [[package]]
@@ -15,9 +23,45 @@ name = "max_area"
 version = "0.1.0"
 
 [[package]]
+name = "max_sliding_window"
+version = "0.1.0"
+
+[[package]]
+name = "max_sub_array"
+version = "0.1.0"
+
+[[package]]
+name = "merge"
+version = "0.1.0"
+
+[[package]]
+name = "min_window"
+version = "0.1.0"
+
+[[package]]
 name = "move_zeroes"
 version = "0.1.0"
 
 [[package]]
 name = "number_sum"
+version = "0.1.0"
+
+[[package]]
+name = "product_except_self"
+version = "0.1.0"
+
+[[package]]
+name = "rotate"
+version = "0.1.0"
+
+[[package]]
+name = "subarray_sum"
+version = "0.1.0"
+
+[[package]]
+name = "three_sum"
+version = "0.1.0"
+
+[[package]]
+name = "trap"
 version = "0.1.0"
