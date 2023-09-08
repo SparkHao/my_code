@@ -16,5 +16,6 @@ members = [
     "min_window",
     "merge",
     "rotate",
-    "product_except_self"
+    "product_except_self",
+    "set_zeros"
 ]

@@ -12,7 +12,7 @@ fn main() {
     let t = String::from("aa");
     println!("{:?}", Solution::min_window(s, t));
 
-
+    
 }
 
 struct Solution {}
